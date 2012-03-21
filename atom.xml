@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Mike Gehard]]></title>
+  <link href="http://msgehard.github.com/atom.xml" rel="self"/>
+  <link href="http://msgehard.github.com/"/>
+  <updated>2012-03-21T14:30:06-06:00</updated>
+  <id>http://msgehard.github.com/</id>
+  <author>
+    <name><![CDATA[Mike Gehard]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Thoughts on Software Quality]]></title>
+    <link href="http://msgehard.github.com/blog/2011/12/31/software-quality/"/>
+    <updated>2011-12-31T14:35:00-07:00</updated>
+    <id>http://msgehard.github.com/blog/2011/12/31/software-quality</id>
+    <content type="html"><![CDATA[<p>In the past few days, there have been quite a few posts on software quality in the Ruby on Rails world. This exchange has gotten me thinking about my thoughts on software quality.</p>
+
+<p>It started with <a href="https://twitter.com/#!/chadfowler">Chad Fowler&#8217;s</a> post on <a href="http://chadfowler.com/2011/12/27/the-art-craft-commodity-continuum">the art/craft/commodity continuum</a>.  This post was a reminder about the relationship that exists when you write software for others.  In this relationship, there is a delicate balance between what the customer wants out of the relationship (working software) and what the developer wants out of the relationship (a chance to practice their art/craft).</p>
+
+<p>Just yesterday, there was a flurry of posts discussing how the Ruby on Rails framework lacks some patterns that assure software quality in large scale applications and what we as the Rails community can do to help with this quality &#8220;deficiency&#8221;.</p>
+
+<p><a href="http://blog.steveklabnik.com/posts/2011-12-30-active-record-considered-harmful">http://blog.steveklabnik.com/posts/2011-12-30-active-record-considered-harmful</a>
+<a href="http://andrzejonsoftware.blogspot.com/2011/12/rails-is-still-cool.html">http://andrzejonsoftware.blogspot.com/2011/12/rails-is-still-cool.html</a>
+<a href="http://karmajunkie.com/blog/2011/12/30/evolving-rails">http://karmajunkie.com/blog/2011/12/30/evolving-rails</a></p>
+
+<p>Reading and discussing all of these posts with others has reminded me that there is no cut and dry measure of what makes a &#8220;successful&#8221; software project.  It has also reaffirmed my two &#8220;golden rules&#8221; that I use to judge success with developing software:</p>
+
+<ul>
+<li>Always deliver software that meets the customer&#8217;s needs</li>
+<li>Always deliver software that is easy to understand for those that come after me</li>
+</ul>
+
+
+<p>I would say that the first item is somewhat easy to measure objectively. The second one is a bit harder to measure objectively.</p>
+
+<p>I wish I could impart some grand wisdom about what this looks like but I can&#8217;t do that.  All I can say is that I surround myself with people who I believe are good software developers.  When I get to writing that code that just doesn&#8217;t &#8220;feel right&#8221; or doesn&#8217;t &#8220;roll off my fingers&#8221;, I reach out early to those people for a review of the code in question. These interactions are where I refine my meaning of what &#8220;easy for others to understand&#8221; because I get real time feedback from someone who might just come after me in supporting the software that I write.</p>
+]]></content>
+  </entry>
+  
+</feed>
